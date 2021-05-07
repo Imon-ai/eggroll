@@ -1,0 +1,1 @@
+1.oil,2.two egg,3.spices,4.some vegetables,5.tomato sauce
